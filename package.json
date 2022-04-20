@@ -1,0 +1,15 @@
+{
+  "name": "@WillYazdani/github-pkg-demo",
+  "repository": {
+    "url": "https://github.com/WillYazdani/github-pkg-demo"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
